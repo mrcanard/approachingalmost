@@ -135,7 +135,7 @@ models/
 
 
 # data files
-*.csv
+# *.csv
 *.h5
 *.pkl
 *.pth
